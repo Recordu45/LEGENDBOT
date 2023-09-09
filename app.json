@@ -84,6 +84,8 @@
   },{
     "url":"https://github.com/heroku/heroku-buildpack-google-chrome"
   },{
+    "url": "https://github.com/riganf/heroku-buildpack-p7zip"
+  },{
     "url": "https://github.com/heroku/heroku-buildpack-apt.git"
   },{
     "url": "https://github.com/chrismytton/heroku-buildpack-jq"
