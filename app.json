@@ -93,5 +93,6 @@
     "url": "https://github.com/LEGEND-AI/heroku-buildpack-nodejs"
   },{
     "url": "heroku/python"
-  }]
+  }],
+  "stack": "heroku-22"
 }
